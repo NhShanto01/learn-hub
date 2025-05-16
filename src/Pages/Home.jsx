@@ -4,7 +4,7 @@ import Courses from '../component/Books'
 
 function Home() {
   return (
-    <div>
+    <div className='py-10'>
         <Hero />
         <Courses />
     </div>

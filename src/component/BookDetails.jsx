@@ -10,9 +10,9 @@ function BookDetails() {
 
   const book = data.find((book) => book.bookId === id);
   // bookId:currentId
-  const { bookName, image, author, category, review, tags, totalPages, publisher, rating, yearOfPublishing } = book;
+  const { bookName, image, author, category, review, tags, totalPages, publisher, rating} = book;
   return (
-    <div className="card lg:card-side bg-base-100 shadow-sm">
+    <div className="card lg:card-side bg-base-100 shadow-sm my-8 ">
       <figure>
         <img
           src={image}
@@ -28,6 +28,7 @@ function BookDetails() {
         </div>
         <p>Short: {review}</p>
         <div className="flex justify-center gap-4">
+          Tags:
           {
             tags.map((tag, index) => <button
               key={index}
@@ -38,13 +39,9 @@ function BookDetails() {
         </div>
         <div className="flex justify-between">
           <p>Publisher: {publisher}</p>
-          <p>Year: {yearOfPublishing}</p>
           <p>Total Pages: {totalPages}</p>
           <p>Rating: {rating}</p>
 
-        </div>
-        <div className="card-actions justify-end">
-          <button className="btn btn-primary">Listen</button>
         </div>
       </div>
     </div>

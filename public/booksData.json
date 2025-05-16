@@ -1,119 +1,140 @@
 [
   {
     "bookId": 1,
-    "bookName": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "image": "https://i.ibb.co.com/khHN7Pk/9780143454212.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 192,
+    "bookName": "Web Development with PHP,Laravel & Vue.js",
+    "author": "F. Scott",
+    "image": "https://cdn.ostad.app/course/photo/2024-12-23T06-07-44.087Z-Course%20Thumbnail%2016.jpg",
+    "review": "'Web Development with PHP,Laravel & Vue.js' is a comprehensive course designed to equip learners with the skills needed to build dynamic web applications. This course covers the fundamentals of PHP, Laravel, and Vue.js, providing a solid foundation for modern web development. Participants will learn how to create robust back-end systems using Laravel's powerful features while also mastering front-end development with Vue.js. The course includes hands-on projects, best practices for coding, and insights into deploying applications. Whether you're a beginner or looking to enhance your skills, this course offers a practical approach to web development that prepares you for real-world challenges.",
+    "totalPages": "1080Hours",
     "rating": 4.5,
-    "category": "Classic",
-    "tags": ["Fiction", "Romance"],
-    "publisher": "Scribner",
-    "yearOfPublishing": 1925
+    "category": "Development",
+    "tags": [
+      "PHP",
+      "Laravel"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 2,
-    "bookName": "To Kill a Mockingbird",
+    "bookName": "Web Development with Tailwind, React & Next.js",
     "author": "Harper Lee",
-    "image": "https://i.ibb.co.com/0cv102J/To-Kill-a-Mockingbird.webp",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 281,
+    "image": "https://cdn.ostad.app/course/photo/2025-03-03T14-07-12.909Z-Tailwind-CSS,-React-&-Next.jpg",
+    "review": "Web Development with Tailwind, React & Next.js' is an advanced course that focuses on building modern web applications using the latest technologies. This course covers the integration of Tailwind CSS for styling, React for building user interfaces, and Next.js for server-side rendering and routing. Participants will learn how to create responsive and visually appealing web applications while optimizing performance and user experience. The course includes hands-on projects, best practices for coding, and insights into deploying applications. Whether you're a seasoned developer or looking to expand your skill set, this course provides a comprehensive approach to modern web development.",
+    "totalPages": "1080Hours",
     "rating": 4.8,
-    "category": "Fiction",
-    "tags": ["Drama", "Social Justice"],
-    "publisher": "J.B. Lippincott & Co.",
-    "yearOfPublishing": 1960
+    "category": "Development",
+    "tags": [
+      "React",
+      "Next.js",
+      "MERN Stack"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 3,
-    "bookName": "1984",
+    "bookName": "App Development with Flutter & Dart",
     "author": "George Orwell",
-    "image": "https://i.ibb.co.com/MprDyVt/51-BIA4rrae-L-AC-UF1000-1000-QL80.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 328,
+    "image": "https://cdn.ostad.app/course/photo/2024-12-18T15-22-42.948Z-Flutter-Thumbnail.jpg",
+    "review": "App Development with Flutter & Dart' is a comprehensive course designed to teach learners how to build cross-platform mobile applications using Flutter and Dart. This course covers the fundamentals of Flutter, including widgets, state management, and UI design principles. Participants will learn how to create visually appealing and responsive mobile apps that run on both iOS and Android platforms. The course includes hands-on projects, best practices for coding, and insights into deploying applications. Whether you're a beginner or looking to enhance your skills, this course provides a practical approach to mobile app development with Flutter and Dart.",
+    "totalPages": "1080Hours",
     "rating": 4.6,
-    "category": "Fiction",
-    "tags": ["Dystopian", "Political"],
-    "publisher": "Secker & Warburg",
-    "yearOfPublishing": 1949
+    "category": "Development",
+    "tags": [
+      "Fluter",
+      "Dart"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 4,
-    "bookName": "The Catcher in the Rye",
+    "bookName": "Data Science & ML with Python",
     "author": "J.D. Salinger",
-    "image": "https://i.ibb.co.com/tYSWRfG/catcherrye-edited-1-800x.png",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 224,
+    "image": "https://cdn.ostad.app/course/photo/2024-11-07T13-34-17.205Z-Untitled-1%20(18).jpg",
+    "review": "Data Science & ML with Python' is an in-depth course that focuses on the principles and techniques of data science and machine learning using Python. This course covers essential topics such as data preprocessing, exploratory data analysis, feature engineering, and model building. Participants will learn how to leverage popular libraries like Pandas, NumPy, and Scikit-learn to analyze and visualize data effectively. The course includes hands-on projects, real-world case studies, and best practices for deploying machine learning models. Whether you're a beginner or looking to enhance your skills, this course provides a comprehensive approach to data science and machine learning with Python.",
+    "totalPages": "720Hours",
     "rating": 4.3,
-    "category": "Fiction",
-    "tags": ["Young Adult", "Identity"],
-    "publisher": "Little, Brown and Company",
-    "yearOfPublishing": 1951
+    "category": "Data Science",
+    "tags": [
+      "Python",
+      "Statistics"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 5,
-    "bookName": "Pride and Prejudice",
+    "bookName": "UI/UX Design with Figma & Adobe XD",
     "author": "Jane Austen",
-    "image": "https://i.ibb.co.com/YdQDMpn/81me-ud-V63-L-AC-UF1000-1000-QL80.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 279,
+    "image": "https://cdn.ostad.app/course/photo/2024-12-19T15-52-04.170Z-Course%20Thumbnail%2013%20(1).jpg",
+    "review": "UI/UX Design with Figma & Adobe XD' is a comprehensive course that focuses on the principles and practices of user interface and user experience design. This course covers essential topics such as wireframing, prototyping, and usability testing using popular design tools like Figma and Adobe XD. Participants will learn how to create visually appealing and user-friendly designs for web and mobile applications. The course includes hands-on projects, best practices for design thinking, and insights into the design process. Whether you're a beginner or looking to enhance your skills, this course provides a practical approach to UI/UX design with Figma and Adobe XD.",
+    "totalPages": "360Hours",
     "rating": 4.7,
-    "category": "Classic",
-    "tags": ["Romance", "Satire"],
-    "publisher": "T. Egerton, Whitehall",
-    "yearOfPublishing": 1813
+    "category": "UI/UX",
+    "tags": [
+
+      "Figma",
+      "Adobe XD"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 6,
-    "bookName": "The Hobbit",
+    "bookName": "AI Agent Development with Python",
     "author": "J.R.R. Tolkien",
-    "image": "https://i.ibb.co.com/xS8YvxL/81m-CE-uclx-L-UF1000-1000-QL80.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 310,
+    "image": "https://cdn.ostad.app/course/photo/2025-03-28T19-19-37.850Z-1.jpg%20%7C%7C%20https://cdn.ostad.app/course/cover/2025-03-28T19-19-37.851Z-1.jpg",
+    "review": "AI Agent Development with Python' is an advanced course that focuses on building intelligent agents using Python. This course covers essential topics such as natural language processing, machine learning, and reinforcement learning. Participants will learn how to create AI agents that can interact with users, make decisions, and learn from their environment. The course includes hands-on projects, real-world applications, and best practices for developing AI systems. Whether you're a beginner or looking to enhance your skills, this course provides a comprehensive approach to AI agent development with Python.",
+    "totalPages": "720Hours",
     "rating": 4.9,
-    "category": "Fantasy",
-    "tags": ["Adventure", "Epic"],
-    "publisher": "Allen & Unwin",
-    "yearOfPublishing": 1937
+    "category": "AI",
+
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 7,
-    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "bookName": "Data Analytics with Python & Pandas",
     "author": "J.K. Rowling",
-    "image": "https://i.ibb.co.com/989qMRW/42844155.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 309,
+    "image": "https://cdn.ostad.app/course/photo/2025-03-29T10-32-29.279Z-710af02d-9161-4f38-8256-9e428064836e.jpg%20%7C%7C%20https://cdn.ostad.app/course/cover/2025-03-29T10-32-29.279Z-710af02d-9161-4f38-8256-9e428064836e.jpg",
+    "review": "Data Analytics with Python' is a comprehensive course that focuses on the principles and techniques of data analytics using Python. This course covers essential topics such as data cleaning, exploratory data analysis, and data visualization. Participants will learn how to leverage popular libraries like Pandas, Matplotlib, and Seaborn to analyze and visualize data effectively. The course includes hands-on projects, real-world case studies, and best practices for data analytics. Whether you're a beginner or looking to enhance your skills, this course provides a practical approach to data analytics with Python.",
+    "totalPages": "720Hours",
     "rating": 4.8,
-    "category": "Fantasy",
-    "tags": ["Magic", "Young Adult"],
-    "publisher": "Bloomsbury",
-    "yearOfPublishing": 1997
+    "category": "Data Science",
+    "tags": [
+      "Machine Learning",
+      "Statistics"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 8,
-    "bookName": "The Alchemist",
+    "bookName": "Motion Magic with After Effects",
     "author": "Paulo Coelho",
-    "image": "https://i.ibb.co.com/zS9jsdK/18144590.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 177,
+    "image": "https://cdn.ostad.app/course/photo/2025-02-24T06-14-05.992Z-Untitled-1%20(40)%20(2).jpg",
+    "review": "Motion Magic with After Effects' is a comprehensive course that focuses on the principles and techniques of motion graphics and animation using Adobe After Effects. This course covers essential topics such as keyframing, compositing, and visual effects. Participants will learn how to create stunning animations and motion graphics for various applications, including video production, advertising, and social media. The course includes hands-on projects, best practices for design, and insights into the animation process. Whether you're a beginner or looking to enhance your skills, this course provides a practical approach to motion graphics with After Effects.",
+    "totalPages": "360Hours",
     "rating": 4.6,
-    "category": "Fiction",
-    "tags": ["Philosophical", "Adventure"],
-    "publisher": "HarperCollins",
-    "yearOfPublishing": 1988
+    "category": "Graphic Design",
+    "tags": [
+      "Animation",
+      "Visual Effects"
+    ],
+    "publisher": "Learn Hub"
   },
   {
     "bookId": 9,
-    "bookName": "The Girl on the Train",
+    "bookName": "Web Development with JavaScript",
     "author": "Paula Hawkins",
-    "image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
-    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
-    "totalPages": 316,
+    "image": "https://cdn.ostad.app/course/photo/2024-12-17T11-35-19.890Z-Course%20Thumbnail%2012.jpg",
+    "review": "'Web Development with JavaScript & React' is a comprehensive guide to mastering the art of web development. This course covers the essential concepts and techniques needed to build modern, interactive web applications. From understanding the core principles of JavaScript to diving deep into React, you'll learn how to create dynamic user interfaces and manage application state effectively. The course also explores best practices for responsive design, performance optimization, and integrating APIs. Whether you're a beginner or looking to enhance your skills, this course provides hands-on projects and real-world examples to solidify your understanding. Join us on this journey to become a proficient web developer and unlock the potential of JavaScript and React in your projects.",
+    "totalPages": "1080Hours",
     "rating": 4.2,
-    "category": "Mystery",
-    "tags": ["Suspense", "Psychological"],
-    "publisher": "Riverhead Books",
-    "yearOfPublishing": 2015
+    "category": "Development",
+    "tags": [
+      "Frontend Development",
+      "MERN Stack"
+    ],
+    "publisher": "Learn Hub"
   }
 ]
