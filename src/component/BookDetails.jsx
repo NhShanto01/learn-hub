@@ -26,7 +26,7 @@ function BookDetails() {
         <div className="badge badge-outline">{category}</div>
         <div className="border-t-2 border-dashed">
         </div>
-        <p>Short: {review}</p>
+        <p>Short Brief: {review}</p>
         <div className="flex justify-center gap-4">
           Tags:
           {
@@ -39,7 +39,7 @@ function BookDetails() {
         </div>
         <div className="flex justify-between">
           <p>Publisher: {publisher}</p>
-          <p>Total Pages: {totalPages}</p>
+          <p>Total Runtime: {totalPages}</p>
           <p>Rating: {rating}</p>
 
         </div>
